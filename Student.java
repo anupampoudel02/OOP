@@ -9,4 +9,15 @@ public class Student {
         this.grade = grade;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public double getGrade() {
+        return grade;
+    }
 }
